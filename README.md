@@ -4,7 +4,7 @@ This a course that I've made for beginners to web development in my institute fo
 
 
 #### [Original Design on Frontendmentor.io](https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
-#### [Slides of The Course](https://docs.google.com/presentation/d/1e3DOXZ737pG9rKcQpGVAl2Zo277QPtTzs7UY6T3XV1I/edit?usp=sharing)
+
 
 <br>
 
